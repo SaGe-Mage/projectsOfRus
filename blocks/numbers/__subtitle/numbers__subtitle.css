@@ -1,0 +1,10 @@
+.numbers__subtitle {
+  margin: 0;
+  font-family: "Oswald", "Areal", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #999999;
+}

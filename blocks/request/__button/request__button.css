@@ -1,0 +1,24 @@
+.request__button {
+  padding: 0;
+  background-color: #ffffff;
+  border: none;
+  width: 175px;
+  height: 49px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Oswald", "Areal", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.05em;
+  color: #000000;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.request__button:active {
+  background-color: #f7654a;
+  border: 1px solid #000000;
+}

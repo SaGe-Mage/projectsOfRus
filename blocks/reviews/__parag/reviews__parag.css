@@ -1,0 +1,26 @@
+.reviews__parag {
+  margin: 0;
+  font-family: "Open Sans", "Areal", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #999999;
+  background-color: #F7F7F7;
+  padding: 79px 30px 39px;
+  position: relative;
+}
+
+.reviews__parag::before {
+  content: "“";
+  font-family: "Oswald", "Areal", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 96px;
+  line-height: 142px;
+  text-transform: uppercase;
+  color: #F7654A;
+  position: absolute;
+  top: -15px;
+  left: 25px;
+}

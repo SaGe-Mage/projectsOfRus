@@ -1,0 +1,11 @@
+.numbers {
+  display: flex;
+  justify-content: space-between;
+  max-width: calc(1110px - 260px);
+  padding: 57px 130px;
+  margin: 0 auto;
+  list-style: none;
+  background-color: #f7f7f7;
+  position: relative;
+  bottom: 150px;
+}

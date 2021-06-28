@@ -1,0 +1,11 @@
+.question__panel {
+  max-width: 730px;
+  margin: 0;
+  margin-top: 30px;
+  font-family: "Open Sans", "Areal", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #999999;
+}

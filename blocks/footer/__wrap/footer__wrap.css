@@ -1,0 +1,9 @@
+.footer__wrap {
+  max-width: 1110px;
+  height: 82px;
+  margin: 0 auto;
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

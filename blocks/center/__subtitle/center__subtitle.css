@@ -1,0 +1,13 @@
+.center__subtitle {
+  margin: 0;
+  margin-top: 35px;
+  padding-bottom: 320px;
+  font-family:  "Oswald", "Areal", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ffffff;
+}

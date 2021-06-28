@@ -1,0 +1,11 @@
+.portfolio {
+  margin: 0 auto;
+  margin-top: 150px;
+  padding: 0;
+  list-style: none;
+  max-width: 1920px;
+  display: grid;
+  grid-template-columns: repeat(4, 480px);
+  overflow: hidden;
+  grid-auto-rows: 407px;
+}
